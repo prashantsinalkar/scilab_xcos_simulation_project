@@ -1,0 +1,5 @@
+name = "XCOS Simulation Project"
+description = "Scilab Project, FOSSEE, IIT Bombay"
+package = FOSSEE
+version = "7.x"
+core = "7.x"
